@@ -8,3 +8,4 @@ function helloWord(name){
 }
 helloWord(justin)
 helloWord("lyly")
+helloWord("Tom")
